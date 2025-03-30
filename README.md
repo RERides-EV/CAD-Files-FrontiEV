@@ -2,7 +2,7 @@
 CAD Files for the Frontier EV build
 
 Mounting plate for J1772 Charging Receptacle
-  - Mounting Plate for J1772 EV Charger Plug.step
+  - Frontier J1772 receptacle mounting plate.step
 
 AC Bracket
   - AC Pump and Bracket.step
